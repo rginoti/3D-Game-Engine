@@ -1,0 +1,12 @@
+﻿  glad.c
+  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\075-Camera\075-Camera\main.cpp(64,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\075-Camera\075-Camera\main.cpp(65,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\075-Camera\075-Camera\main.cpp(69,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\075-Camera\075-Camera\main.cpp(70,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\075-Camera\075-Camera\main.cpp(71,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\075-Camera\075-Camera\main.cpp(72,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\075-Camera\075-Camera\main.cpp(79,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\075-Camera\075-Camera\main.cpp(273,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\075-Camera\075-Camera\main.cpp(305,16): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+  075-Camera.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\075-Camera\x64\Debug\075-Camera.exe

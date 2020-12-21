@@ -1,0 +1,12 @@
+﻿  glad.c
+  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\libraries\include\MESH\mesh.h(123,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\260-ShadowMapping\260-ShadowMapping\main.cpp(290,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\260-ShadowMapping\260-ShadowMapping\main.cpp(291,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\260-ShadowMapping\260-ShadowMapping\main.cpp(295,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\260-ShadowMapping\260-ShadowMapping\main.cpp(296,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\260-ShadowMapping\260-ShadowMapping\main.cpp(298,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\260-ShadowMapping\260-ShadowMapping\main.cpp(299,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\260-ShadowMapping\260-ShadowMapping\main.cpp(308,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\260-ShadowMapping\260-ShadowMapping\main.cpp(659,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  260-ShadowMapping.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\260-ShadowMapping\x64\Debug\260-ShadowMapping.exe

@@ -1,0 +1,4 @@
+﻿  glad.c
+  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\050-Transformations\050-Transformations\main.cpp(235,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  050-Transformations.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\050-Transformations\x64\Debug\050-Transformations.exe

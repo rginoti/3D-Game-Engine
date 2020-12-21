@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "310-Bloom", "310-Bloom\310-Bloom.vcxproj", "{11617DF0-01FA-472C-B8E0-DA7ABF1E2132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11617DF0-01FA-472C-B8E0-DA7ABF1E2132}.Debug|x64.ActiveCfg = Debug|x64
+		{11617DF0-01FA-472C-B8E0-DA7ABF1E2132}.Debug|x64.Build.0 = Debug|x64
+		{11617DF0-01FA-472C-B8E0-DA7ABF1E2132}.Debug|x86.ActiveCfg = Debug|Win32
+		{11617DF0-01FA-472C-B8E0-DA7ABF1E2132}.Debug|x86.Build.0 = Debug|Win32
+		{11617DF0-01FA-472C-B8E0-DA7ABF1E2132}.Release|x64.ActiveCfg = Release|x64
+		{11617DF0-01FA-472C-B8E0-DA7ABF1E2132}.Release|x64.Build.0 = Release|x64
+		{11617DF0-01FA-472C-B8E0-DA7ABF1E2132}.Release|x86.ActiveCfg = Release|Win32
+		{11617DF0-01FA-472C-B8E0-DA7ABF1E2132}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01E97EF5-4579-4CC9-8A91-512C9130ABAB}
+	EndGlobalSection
+EndGlobal

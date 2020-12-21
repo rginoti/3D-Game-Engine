@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\libraries\include\MESH\mesh.h(123,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\180-Cubemaps\180-Cubemaps\main.cpp(186,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\180-Cubemaps\180-Cubemaps\main.cpp(187,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\180-Cubemaps\180-Cubemaps\main.cpp(191,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\180-Cubemaps\180-Cubemaps\main.cpp(192,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\180-Cubemaps\180-Cubemaps\main.cpp(194,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\180-Cubemaps\180-Cubemaps\main.cpp(195,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\180-Cubemaps\180-Cubemaps\main.cpp(204,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\180-Cubemaps\180-Cubemaps\main.cpp(397,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  180-Cubemaps.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\180-Cubemaps\x64\Debug\180-Cubemaps.exe

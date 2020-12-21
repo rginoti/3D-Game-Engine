@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\libraries\include\MESH\mesh.h(123,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\170-FrameBuffers\170-FrameBuffers\main.cpp(234,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\170-FrameBuffers\170-FrameBuffers\main.cpp(341,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\170-FrameBuffers\170-FrameBuffers\main.cpp(342,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\170-FrameBuffers\170-FrameBuffers\main.cpp(346,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\170-FrameBuffers\170-FrameBuffers\main.cpp(347,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\170-FrameBuffers\170-FrameBuffers\main.cpp(349,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\170-FrameBuffers\170-FrameBuffers\main.cpp(350,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\170-FrameBuffers\170-FrameBuffers\main.cpp(359,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  170-FrameBuffers.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\170-FrameBuffers\x64\Debug\170-FrameBuffers.exe

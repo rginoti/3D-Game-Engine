@@ -1,0 +1,19 @@
+﻿  glad.c
+  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\libraries\include\MESH\mesh.h(123,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(90,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(91,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(95,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(96,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(98,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(99,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(108,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(270,19): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(287,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(291,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(312,82): warning C4312: 'type cast': conversion from 'GLsizei' to 'void *' of greater size
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(314,86): warning C4312: 'type cast': conversion from 'GLsizei' to 'void *' of greater size
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(316,86): warning C4312: 'type cast': conversion from 'GLsizei' to 'void *' of greater size
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(348,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\220-Instancing\main.cpp(405,10): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  220-Instancing.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\220-Instancing\x64\Debug\220-Instancing.exe

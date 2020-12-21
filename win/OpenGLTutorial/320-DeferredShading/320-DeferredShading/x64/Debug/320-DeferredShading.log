@@ -1,0 +1,20 @@
+﻿  glad.c
+  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\libraries\include\MESH\mesh.h(123,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(67,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(68,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(72,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(73,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(75,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(76,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(85,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(371,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(372,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(373,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(376,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(377,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(378,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(402,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(452,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\320-DeferredShading\main.cpp(453,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  320-DeferredShading.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\320-DeferredShading\x64\Debug\320-DeferredShading.exe

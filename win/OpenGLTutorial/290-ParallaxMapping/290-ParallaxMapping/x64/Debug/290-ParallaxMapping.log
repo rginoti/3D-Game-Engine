@@ -1,0 +1,12 @@
+﻿  glad.c
+  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\libraries\include\MESH\mesh.h(123,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\290-ParallaxMapping\290-ParallaxMapping\main.cpp(75,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\290-ParallaxMapping\290-ParallaxMapping\main.cpp(76,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\290-ParallaxMapping\290-ParallaxMapping\main.cpp(80,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\290-ParallaxMapping\290-ParallaxMapping\main.cpp(81,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\290-ParallaxMapping\290-ParallaxMapping\main.cpp(83,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\290-ParallaxMapping\290-ParallaxMapping\main.cpp(84,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\290-ParallaxMapping\290-ParallaxMapping\main.cpp(93,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\290-ParallaxMapping\290-ParallaxMapping\main.cpp(327,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  290-ParallaxMapping.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\290-ParallaxMapping\x64\Debug\290-ParallaxMapping.exe

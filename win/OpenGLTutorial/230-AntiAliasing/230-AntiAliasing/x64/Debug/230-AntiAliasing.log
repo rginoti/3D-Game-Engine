@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\libraries\include\MESH\mesh.h(123,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\230-AntiAliasing\230-AntiAliasing\main.cpp(131,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\230-AntiAliasing\230-AntiAliasing\main.cpp(132,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\230-AntiAliasing\230-AntiAliasing\main.cpp(136,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\230-AntiAliasing\230-AntiAliasing\main.cpp(137,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\230-AntiAliasing\230-AntiAliasing\main.cpp(139,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\230-AntiAliasing\230-AntiAliasing\main.cpp(140,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\230-AntiAliasing\230-AntiAliasing\main.cpp(149,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\230-AntiAliasing\230-AntiAliasing\main.cpp(343,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  230-AntiAliasing.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\230-AntiAliasing\x64\Debug\230-AntiAliasing.exe

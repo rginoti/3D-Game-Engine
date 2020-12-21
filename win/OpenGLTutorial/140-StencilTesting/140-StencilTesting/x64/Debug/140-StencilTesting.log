@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\140-StencilTesting\140-StencilTesting\main.cpp(186,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\140-StencilTesting\140-StencilTesting\main.cpp(241,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\140-StencilTesting\140-StencilTesting\main.cpp(308,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\140-StencilTesting\140-StencilTesting\main.cpp(309,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\140-StencilTesting\140-StencilTesting\main.cpp(313,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\140-StencilTesting\140-StencilTesting\main.cpp(314,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\140-StencilTesting\140-StencilTesting\main.cpp(316,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\140-StencilTesting\140-StencilTesting\main.cpp(317,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\140-StencilTesting\140-StencilTesting\main.cpp(326,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  140-StencilTesting.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\140-StencilTesting\x64\Debug\140-StencilTesting.exe

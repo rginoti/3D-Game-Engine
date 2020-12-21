@@ -1,0 +1,16 @@
+﻿  glad.c
+  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\080-BasicLighting\080-BasicLighting\main.cpp(172,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\080-BasicLighting\080-BasicLighting\main.cpp(229,41): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\080-BasicLighting\080-BasicLighting\main.cpp(288,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\080-BasicLighting\080-BasicLighting\main.cpp(289,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\080-BasicLighting\080-BasicLighting\main.cpp(293,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\080-BasicLighting\080-BasicLighting\main.cpp(294,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\080-BasicLighting\080-BasicLighting\main.cpp(296,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\080-BasicLighting\080-BasicLighting\main.cpp(297,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\080-BasicLighting\080-BasicLighting\main.cpp(306,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  080-BasicLighting.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\080-BasicLighting\x64\Debug\080-BasicLighting.exe

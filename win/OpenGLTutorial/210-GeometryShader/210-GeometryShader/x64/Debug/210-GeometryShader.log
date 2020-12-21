@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\libraries\include\MESH\mesh.h(123,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\210-GeometryShader\210-GeometryShader\main.cpp(90,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\210-GeometryShader\210-GeometryShader\main.cpp(91,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\210-GeometryShader\210-GeometryShader\main.cpp(95,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\210-GeometryShader\210-GeometryShader\main.cpp(96,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\210-GeometryShader\210-GeometryShader\main.cpp(98,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\210-GeometryShader\210-GeometryShader\main.cpp(99,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\210-GeometryShader\210-GeometryShader\main.cpp(108,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\210-GeometryShader\210-GeometryShader\main.cpp(253,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  210-GeometryShader.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\210-GeometryShader\x64\Debug\210-GeometryShader.exe

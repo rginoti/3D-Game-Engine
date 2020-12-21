@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(228,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(231,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(256,167): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(256,136): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(256,105): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(364,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(435,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(436,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(440,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(441,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(443,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(444,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\110-MultipleLights\main.cpp(453,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  110-MultipleLights.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\110-MultipleLights\x64\Debug\110-MultipleLights.exe

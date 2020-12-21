@@ -1,0 +1,22 @@
+assets/
+mac/glfw-3.2.1/
+mac/Tutorial\ 0.3.8/
+mac/build/
+mac/glm/
+mac/glsdk_0_5_2/
+mac/libraries/lib/
+mac/libraries/include/GLFW
+mac/libraries/include/KHR
+mac/libraries/include/glad
+mac/libraries/include/stb_image.h
+mac/libraries/include/glm
+mac/libraries/include/assimp
+win/libraries/lib/
+win/libraries/include/GLFW
+win/libraries/include/KHR
+win/libraries/include/glad
+win/libraries/include/stb_image.h
+win/libraries/include/glm
+win/libraries/include/assimp
+win/libraries/dll
+**/.vs

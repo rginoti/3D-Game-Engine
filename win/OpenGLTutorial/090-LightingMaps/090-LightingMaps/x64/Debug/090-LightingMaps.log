@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\090-LightingMaps\090-LightingMaps\main.cpp(195,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\090-LightingMaps\090-LightingMaps\main.cpp(199,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\090-LightingMaps\090-LightingMaps\main.cpp(280,41): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\090-LightingMaps\090-LightingMaps\main.cpp(349,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\090-LightingMaps\090-LightingMaps\main.cpp(350,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\090-LightingMaps\090-LightingMaps\main.cpp(354,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\090-LightingMaps\090-LightingMaps\main.cpp(355,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\090-LightingMaps\090-LightingMaps\main.cpp(357,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\090-LightingMaps\090-LightingMaps\main.cpp(358,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\090-LightingMaps\090-LightingMaps\main.cpp(367,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  090-LightingMaps.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\090-LightingMaps\x64\Debug\090-LightingMaps.exe

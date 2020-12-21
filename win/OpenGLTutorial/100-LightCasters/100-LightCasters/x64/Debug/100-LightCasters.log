@@ -1,0 +1,17 @@
+﻿  glad.c
+  main.cpp
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\100-LightCasters\100-LightCasters\main.cpp(190,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\100-LightCasters\100-LightCasters\main.cpp(193,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\100-LightCasters\100-LightCasters\main.cpp(265,41): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\100-LightCasters\100-LightCasters\main.cpp(334,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\100-LightCasters\100-LightCasters\main.cpp(335,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\100-LightCasters\100-LightCasters\main.cpp(339,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\100-LightCasters\100-LightCasters\main.cpp(340,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\100-LightCasters\100-LightCasters\main.cpp(342,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\100-LightCasters\100-LightCasters\main.cpp(343,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\100-LightCasters\100-LightCasters\main.cpp(352,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  100-LightCasters.vcxproj -> D:\Work\Developer\C_C++\OpenGL\Tutorial\OpenGLTutorial\100-LightCasters\x64\Debug\100-LightCasters.exe
